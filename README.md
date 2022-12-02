@@ -5,7 +5,7 @@ Steps to install this app in any android devices:
 --------------------------------------------------
 
 Clone or download the app repository and open in android studio
-make sure android studio version 3.4. or above.
+make sure android studio version is 3.4. or above.
 Connect any android devices for running the app in real device.
 Click "Run" icon on top right of android studio to install.
 
